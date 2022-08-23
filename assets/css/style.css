@@ -1,3 +1,5 @@
+/* ELEMENTS */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -85,18 +87,28 @@ main ul {
 main ul li {
     display: flex;
     padding-top: 25px;
-    text-decoration: underline var(--void-gray) 10px;
+    
 }
 
 main ul li h2 {
-    font-size: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 40px;
     font-weight: bold;
-    min-width: 300px;
+    min-width: 200px;
+    max-width: 200px;
+    padding: 10px;
+    border-right: 5px solid var(--void-gray); 
+    text-decoration: underline var(--void-gray) 10px;
 }
 
-/* classes below */
+main ul li p {
+    padding-left: 50px;
+}
 
-/* formats my portfolio */
+/* CLASSES */
+
+/* formats My Work */
 
 .grid {
     --barrier: 15px;
@@ -107,8 +119,9 @@ main ul li h2 {
     box-sizing: border-box;
     padding: var(--barrier);
     padding-left: 50px;
-    margin-left: 100px;
     border-left-width: 10px;
+    min-height: 500px;
+    min-width: 500px;
 
     display: grid;
 
@@ -134,7 +147,23 @@ main ul li h2 {
     border-color: lightblue;
 }
 
-.wide-img {
+.wide {
     grid-column: span 2;
 }
 
+.contacts a {
+    display:flex;
+    justify-content: center;
+}
+
+@media screen and (min-width:990px) {
+    main ul li h2{
+        font-size: 60px;
+        min-width: 300px;
+        max-width: 300px;
+    }
+
+    .grid{
+        max-width: 1250px;
+    }
+}
