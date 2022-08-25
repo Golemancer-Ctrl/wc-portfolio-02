@@ -2,8 +2,6 @@
 
 ## Description
 
-- What was your motivation?
-
 As I have progressed through this course, my desire to build a website fully from scratch has grown consistently.  This project has finally enabled that desire to become a reality.  Additionally, building a site to house my repository held great personal significance.  It will be the first exposure a potential employer has to me as a prospect, as well as the professional front page of all my subsequent projects.  While I may have completed this particular assignment, development on this page will certainly never cease.
 
 I built this page to hone my personal skills with HTML and CSS.  I learned quite a bit about website reactivity, media queries, grids, flexbox, variables, and grew more comfortable with previously learned CSS elements like margin/padding, font styling, et cetera.  As this was my first foray into building a page from scratch, I had hoped to gain an understanding of how best to build and organize the CSS.  I believe I have made a definite improvement in that regard from the prior assignment.  
@@ -16,7 +14,7 @@ Simply navigate to 'https://golemancer-ctrl.github.io/wc-portfolio-02/' to view 
 
 ## Preview
 
-    ![Eric Marcy's profile webpage delivers his portfolio in a sleek, responsive, and reactive design.  The page will reformat itself depending on the size of screen, even accomodating mobile devices.  The grid lays out his portfolio of work and highlights each selected project.  It will link to the live version of the site, as the contact info contains links to GitHub among other contact information.](/assets/images/golemancer-ctrl.github.io_wc-portfolio-02_.png?raw=true)
+![Eric Marcy's profile webpage delivers his portfolio in a sleek, responsive, and reactive design.  The page will reformat itself depending on the size of screen, even accomodating mobile devices.  The grid lays out his portfolio of work and highlights each selected project.  It will link to the live version of the site, as the contact info contains links to GitHub among other contact information.](/assets/images/golemancer-ctrl.github.io_wc-portfolio-02_.png?raw=true)
 
 ## Credits
 
