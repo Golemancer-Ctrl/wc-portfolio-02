@@ -105,6 +105,7 @@ main ul li h2 {
 
 main ul li p {
     padding-left: 50px;
+    color: var(--void-gray);
 }
 
 /* classes styled below */
@@ -142,6 +143,7 @@ main ul li p {
 
         .grid > a > img:hover {
             opacity: 0.7;
+            transition: 0.5s;
         }
 
 .wide {
@@ -236,7 +238,7 @@ main ul li p {
     }
 
     /* classes */
-    
+
     .grid {
         --height: 200px;
         --width: 200px;
