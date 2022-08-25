@@ -1,15 +1,25 @@
 # wc-portfolio-02
 
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+## Description
+
+- What was your motivation?
+
+As I have progressed through this course, my desire to build a website fully from scratch has grown consistently.  This project has finally enabled that desire to become a reality.  Additionally, building a site to house my repository held great personal significance.  It will be the first exposure a potential employer has to me as a prospect, as well as the professional front page of all my subsequent projects.  While I may have completed this particular assignment, development on this page will certainly never cease.
+
+I built this page to hone my personal skills with HTML and CSS.  I learned quite a bit about website reactivity, media queries, grids, flexbox, variables, and grew more comfortable with previously learned CSS elements like margin/padding, font styling, et cetera.  As this was my first foray into building a page from scratch, I had hoped to gain an understanding of how best to build and organize the CSS.  I believe I have made a definite improvement in that regard from the prior assignment.  
+
+This code will, as previously stated, provide me with a central hub for my projects.  It will be continually redeveloped as I grow as a developer to better showcase my skillset.  It has established a core network for my projects to be located beyond GitHub, which I can carry with me and improve upon throughout my career.  
+
+## Installation
+
+Simply navigate to 'https://golemancer-ctrl.github.io/wc-portfolio-02/' to view the webpage.  The code can be accessed from the following GitHub repository: https://github.com/Golemancer-Ctrl/wc-portfolio-02.
+
+## Preview
+
+    ![Eric Marcy's profile webpage delivers his portfolio in a sleek, responsive, and reactive design.  The page will reformat itself depending on the size of screen, even accomodating mobile devices.  The grid lays out his portfolio of work and highlights each selected project.  It will link to the live version of the site, as the contact info contains links to GitHub among other contact information.](./assets/images/golemancer-ctrl.github.io_wc-portfolio-02_.png)
+
+## Credits
+
+For references in creating and formatting my grid:
+ - dcode: https://youtu.be/rnhoY5Cdmy0
+
