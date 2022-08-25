@@ -16,7 +16,7 @@ Simply navigate to 'https://golemancer-ctrl.github.io/wc-portfolio-02/' to view 
 
 ## Preview
 
-    ![Eric Marcy's profile webpage delivers his portfolio in a sleek, responsive, and reactive design.  The page will reformat itself depending on the size of screen, even accomodating mobile devices.  The grid lays out his portfolio of work and highlights each selected project.  It will link to the live version of the site, as the contact info contains links to GitHub among other contact information.](./assets/images/golemancer-ctrl.github.io_wc-portfolio-02_.png)
+    ![Eric Marcy's profile webpage delivers his portfolio in a sleek, responsive, and reactive design.  The page will reformat itself depending on the size of screen, even accomodating mobile devices.  The grid lays out his portfolio of work and highlights each selected project.  It will link to the live version of the site, as the contact info contains links to GitHub among other contact information.](/assets/images/golemancer-ctrl.github.io_wc-portfolio-02_.png)
 
 ## Credits
 
