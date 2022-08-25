@@ -2,7 +2,7 @@
 
 ## Description
 
-As I have progressed through this course, my desire to build a website fully from scratch has grown consistently.  This project has finally enabled that desire to become a reality.  Additionally, building a site to house my repository held great personal significance.  It will be the first exposure a potential employer has to me as a prospect, as well as the professional front page of all my subsequent projects.  While I may have completed this particular assignment, development on this page will certainly never cease.
+As I have progressed through this course, my desire to build a website fully from scratch has grown consistently.  This project has finally enabled that desire to become a reality.  Additionally, building a site to house my projects held great personal significance.  It will be the first exposure a potential employer has to me as a prospect, as well as the professional front page of all my subsequent projects.  While I may have completed this particular assignment, development on this page will certainly never cease.
 
 I built this page to hone my personal skills with HTML and CSS.  I learned quite a bit about website reactivity, media queries, grids, flexbox, variables, and grew more comfortable with previously learned CSS elements like margin/padding, font styling, et cetera.  As this was my first foray into building a page from scratch, I had hoped to gain an understanding of how best to build and organize the CSS.  I believe I have made a definite improvement in that regard from the prior assignment.  
 
